@@ -10,3 +10,6 @@ tr:nth-child(even){
 tr:nth-child(odd){
 	background-color:rgb(255, 255, 255);
 }
+td{
+	background-color:rgba(0, 0, 0, 0);
+}
